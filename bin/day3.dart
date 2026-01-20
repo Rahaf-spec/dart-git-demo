@@ -1,3 +1,3 @@
 void main(){
-  print("hello class from VSgit ");
+  print("hello class from VS -------");
 }
